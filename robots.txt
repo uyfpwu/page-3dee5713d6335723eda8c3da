@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.nr38cmn4.cn/sitemap.xml
